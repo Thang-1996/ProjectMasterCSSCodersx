@@ -3,7 +3,7 @@
 Mins-Bakery Template HomePage
 ## Demo Page
 
-[Here is my demo link to my homepage using herokuapp](https://mins-bakery.web.app/).
+[Here is my demo link to my homepage using firebase](https://mins-bakery.web.app/).
 
 ## Installation
 
